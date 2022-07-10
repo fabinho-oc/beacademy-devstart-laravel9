@@ -11,6 +11,10 @@ class ViaCepController extends Controller
         dd('via cep');
     }
 
+    public function show()
+    {
+        
+    }
 
 
 }
